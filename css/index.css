@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.playboi-carti-playboi-carti-ed-icon {
+  position: absolute;
+  width: 360px;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+
+  background: url(playboi-carti-playboi-carti-edits.png);
+  background-blend-mode: hard-light;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  }
+.gradient-icon {
+  object-fit: cover;
+  mix-blend-mode: saturation;
+}
+
+.ashko-play-boy-1-icon,
+.hold-on {
+  position: absolute;
+  top: 330px;
+  left: 123px;
+  width: 93px;
+  height: 120px;
+}
+.hold-on {
+  position: absolute;
+  width: 92px;
+  height: 31px;
+  left: 134px;
+  top: 458px;
+
+  font-family: 'Kreon';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+}
+.container-1 {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  background-image: url(/gradients/gradient@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: 16px;
+  font-family: var(--font-kreon);
+}
